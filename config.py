@@ -1,7 +1,7 @@
 # config.py
 
 config = {
-    "symbol": "DOTUSDT",
+    "symbol": "BTCUSDT",
     "start_time": "01/01/2020",
     "end_time": "01/01/2021",
     "interval": "1h",
